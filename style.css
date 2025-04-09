@@ -39,7 +39,7 @@ h3{
     font-size: 17px;
     font-weight: bold;
     text-align: center;
-    padding: 0 10px; /* adds some breathing room for multi-line text */
+    padding: 0 10px; 
 }
 .dropzone {
     width: 100px;
